@@ -6,12 +6,12 @@
 #    By: hcabel <hcabel@student.42.fr>              +#+  +:+       +#+         #
 #                                                 +#+#+#+#+#+   +#+            #
 #    Created: 2019/04/21 11:09:36 by hcabel            #+#    #+#              #
-#    Updated: 2019/04/21 11:36:56 by hcabel           ###   ########.fr        #
+#    Updated: 2019/04/21 17:06:31 by hcabel           ###   ########.fr        #
 #                                                                              #
 # **************************************************************************** #
 
 NAME			=    GNL
-FLAGS			=    -Wall -Wextra -Werror -g
+FLAGS			=    -Wall -Wextra -Werror
 
 OBJECT_REP		=    objects
 SOURCES_REP		=    srcs
